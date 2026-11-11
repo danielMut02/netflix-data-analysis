@@ -44,6 +44,7 @@ Netflix-Data-Analysis/
 ├── notebook/
 │   └── netflix_data_cleaning.ipynb
 └── README.md
+```
 
 ---
 
