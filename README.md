@@ -5,7 +5,7 @@ This project focuses on cleaning, preprocessing, and analyzing the Netflix Movie
 
 The ultimate goal of this project is to build an interactive Power BI dashboard that uncovers trends in content production, geographical distribution, and genre popularity over time.
 
-[Project URL](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Project:** [Clean the Netflix Dataset](https://roadmap.sh/projects/cleaning-netflix-dataset)
 
 ## 🧹 Data Cleaning & Preprocessing (The "Why" and "How")
 Data cleaning is rarely just running `.dropna()`. This phase required a deep understanding of the dataset's context to avoid biasing the analysis. Here is the thought process behind handling the major data quality issues:
