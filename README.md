@@ -36,15 +36,13 @@ Data cleaning is rarely just running `.dropna()`. This phase required a deep und
   
 ## Project Structure
 
+```text
 Netflix-Data-Analysis/
-│
 ├── data/
-│ ├── netflix_titles.csv
-│ └── cleaned-data.csv
-│
+│   ├── netflix_titles.csv
+│   └── cleaned-data.csv
 ├── notebook/
-│ └── netflix_data_cleaning.ipynb
-│
+│   └── netflix_data_cleaning.ipynb
 └── README.md
 
 ---
