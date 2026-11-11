@@ -33,6 +33,19 @@ Data cleaning is rarely just running `.dropna()`. This phase required a deep und
 *   **Boolean Masking & `.loc`**: Used conditional filtering to safely reassign data between specific rows and columns without affecting the rest of the DataFrame.
 *   **Strategic `fillna()`**: Differentiated between filling categorical metadata (`'Unknown'`) and handling core metrics. 
 *   **`pd.to_datetime(..., errors='coerce')`**: Learned the best practice for converting messy strings to datetime objects safely.
+  
+## Project Structure
+
+Netflix-Data-Analysis/
+│
+├── data/
+│ ├── netflix_titles.csv
+│ └── cleaned-data.csv
+│
+├── notebook/
+│ └── netflix_data_cleaning.ipynb
+│
+└── README.md
 
 ---
 
